@@ -9,11 +9,11 @@ This project focuses on analyzing an e-commerce dataset to extract valuable insi
 ## Instalation
 **1. Clone this repository to your local**
 ```sh
-git clone https://github.com/ChristianNathanielP/Data_Analysis_Project-Ecommerce.git
+git clone https://github.com/ChristianNathanielP/data-analysis-ecommerce-project.git
 ```
 **2. Navigate to the Dashboard directory**
 ```sh 0
-cd .\Ecommerce_Public-Data_Analytic\Dashboard\
+cd .\data-analysis-ecommerce-project\Dashboard\
 ```
 **3. Install the required dependencies**
 ```sh
